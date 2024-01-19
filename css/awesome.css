@@ -2,25 +2,6 @@
     padding: 80px 0 110px 0;
 }
 
-.title{
-    color: #212121;
-    font-family: Raleway;
-    font-size: 36px;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 34px;
-
-}
-
-.subtitle{
-    color: #86878B;
-    font-family: Open Sans;
-    font-size: 14px;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 64px;
-
-}
 
 .card_wrap{
     display: flex;
